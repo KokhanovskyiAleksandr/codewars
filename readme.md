@@ -1,1 +1,1 @@
-<h1>Resolve task from codewars.com</h1>
+<h1>Resolve tasks from codewars.com</h1>
