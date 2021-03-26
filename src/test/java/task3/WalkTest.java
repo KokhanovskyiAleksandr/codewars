@@ -7,6 +7,7 @@ import java.util.Arrays;
 import static org.junit.Assert.assertEquals;
 
 public class WalkTest {
+
     private TenMinWalk tenMinWalk = new TenMinWalk();
     private static final char[][] fail = new char[][]{
             new char[]{'n'},
